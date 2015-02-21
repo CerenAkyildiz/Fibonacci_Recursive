@@ -1,0 +1,6 @@
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\bin\Debug\Fibonacci_Recursive.exe.config
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\bin\Debug\Fibonacci_Recursive.exe
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\bin\Debug\Fibonacci_Recursive.pdb
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\obj\Debug\Fibonacci_Recursive.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\obj\Debug\Fibonacci_Recursive.exe
+C:\Users\Ceren\Desktop\Fibonacci_Recursive\Fibonacci_Recursive\obj\Debug\Fibonacci_Recursive.pdb
